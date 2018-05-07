@@ -12,13 +12,6 @@ hr {
 	margin-bottom: 50px;
 }
 
-header.iop {
-	background-position: center;
-  	background-image: url("bg2.jpeg");
-  	background-size: cover;
-  	height: 100%;
-}
-
 .iop {
 	background-position: center;
   	background-image: url("iop-background-web.jpg");
